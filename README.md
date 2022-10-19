@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @thomas-0xd1
+- 👀 I’m interested in C# / C++ / PHP / SQL / Information Security
+- 🌱 I’m currently learning Windows Access Level Differentiation, Impersonalization, WinAPI
+- 📫 How to reach me: https://t.me/Thomas_0xd1
